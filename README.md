@@ -1,7 +1,7 @@
 # [Work Day Planner](https://Stephen-Garcia.github.io/DayPlanner/)
 A simple planner application that allows a user to save events for each hour of the work day.
 
-![screenshot](/assets/images/screenshot.png)
+![screenshot](/assets/images/Screenshot1.png)
 
 ## User Story
 ---
